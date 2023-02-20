@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="55224" started-at="2023-02-20T23:19:13Z" finished-at="2023-02-20T23:20:08Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="55224" started-at="2023-02-20T23:19:13Z" finished-at="2023-02-20T23:20:08Z">
+      <class name="Posit_Automation.Take_Home.PositCloudTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:Posit_Automation.Take_Home.PositCloudTest@59ec2012]" name="setUp" is-config="true" duration-ms="12956" started-at="2023-02-20T18:19:13Z" finished-at="2023-02-20T18:19:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="createSpaceAndProject()[pri:0, instance:Posit_Automation.Take_Home.PositCloudTest@59ec2012]" name="createSpaceAndProject" duration-ms="34138" started-at="2023-02-20T18:19:26Z" finished-at="2023-02-20T18:20:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createSpaceAndProject -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:Posit_Automation.Take_Home.PositCloudTest@59ec2012]" name="tearDown" is-config="true" duration-ms="8096" started-at="2023-02-20T18:20:00Z" finished-at="2023-02-20T18:20:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- Posit_Automation.Take_Home.PositCloudTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
